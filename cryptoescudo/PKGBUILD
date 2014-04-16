@@ -2,7 +2,7 @@
 
 pkgname=cryptoescudo
 pkgver=1.0.3.0
-pkgrel=0
+pkgrel=1
 pkgdesc="A Portuguese cryptocoin for the 21st century with Scrypt POW"
 arch=('x86_64' 'i686')
 url="http://cryptoescudo.org/"
